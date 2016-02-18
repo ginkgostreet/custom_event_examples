@@ -1,2 +1,3 @@
 # custom_event_examples
-org.ginkgostreet.listener example consumption
+com.ginkgostreet.listener example consumption
+https://github.com/ginkgostreet/com.ginkgostreet.listener
